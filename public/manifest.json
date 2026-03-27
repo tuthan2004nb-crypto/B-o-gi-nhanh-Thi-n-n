@@ -1,0 +1,21 @@
+{
+  "name": "Thiên Ân Smarthome",
+  "short_name": "Thiên Ân",
+  "description": "Hệ thống báo giá thông minh Thiên Ân Smarthome",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F4C81",
+  "theme_color": "#0F4C81",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/thienan-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/thienan-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

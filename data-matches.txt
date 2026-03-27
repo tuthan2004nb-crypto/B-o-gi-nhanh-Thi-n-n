@@ -1,0 +1,6 @@
+RFYO6AgI\\u003d\"]]]","nQyAE":{}};</script><script nonce="PSmUjzrMc4kXUZeTmee7Iw">_docs_flag_initialData={"docs-ails":"docs_warm","docs-fwds":"docs_nf","docs-crs":"docs_crs_tsol","docs-fl":2,"docs-hpr":2,
+","docs-net-usud":true,"docs-enable_feedback_svg":false,"docs-fpid":713590,"docs-fbid":"ExternalUserData","docs-obsImUrl":"https://ssl.gstatic.com/docs/common/netcheck.gif","docs-lsltms":20000,"lssv":7,"d
+clritzapp/static/client/js/68508375-calcworker_j2cl_core.js","fecw":false,"docs-dcr":false,"docosKeyData":[null,null,null,null,null,null,null,1,["Anonymous",null,"//ssl.gstatic.com/docs/common/blue_silhou
+ id="w183" role="menuitem" class="menu-button goog-control goog-control-disabled goog-inline-block">Data</div><div id="docs-tools-menu" role="menuitem" class="menu-button goog-control goog-control-disable
+alLoadTiming(); var DOCS_cseBlobArtifactsHolder = trixApp.getCseBlobArtifactsHolder(); var bootstrapData = {"structure":{},"gridId":0,"changes":{"firstchunkid":"0","firstchunk":[[21299578,"[[\"0\",6,16,0,
+ngth":10905,"initialCellCount":144088}}; function loadWaffle() {trixApp.load(mergedConfig, bootstrapData); bootstrapData = null;}</script><script nonce="PSmUjzrMc4kXUZeTmee7Iw">DOCS_timing['srjl']=new Dat

@@ -1,0 +1,7 @@
+{
+  "name": "BAO GIA NHANH THIEN AN V1.3.1",
+  "description": "Hệ thống báo giá Smarthome chuyên nghiệp cho Thiên Ân Smarthome",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
